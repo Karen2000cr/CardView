@@ -47,7 +47,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             findViewById<TextView>(R.id.textView).text = "TextToSpeech no disponible"
         }
         findViewById<ProgressBar>(R.id.progressBar).visibility=View.GONE
-    }
+    } //Cabrera Ramirez Ana Karen
 
 
 }
